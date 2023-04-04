@@ -7,7 +7,7 @@ Para implemetar o projeto, optou-se por utilizar Node.js, mais especificamente o
 - CRUD de clientes, produtos, telefones, vendas e usuários
 
 # Exemplo dos emails
-![](./Sem título.png)
+![imagem](./Sem título.png)
 
 ## Endpoints implementados 
 # Route.get 
