@@ -6,6 +6,9 @@ Para implemetar o projeto, optou-se por utilizar Node.js, mais especificamente o
 - Envio de token de redefinição de senha para o email do usuário.
 - CRUD de clientes, produtos, telefones, vendas e usuários
 
+# Exemplo dos emails
+![alt text](Sem título.png)
+
 ## Endpoints implementados 
 # Route.get 
 `/clientes`, `/clientes/:id`
